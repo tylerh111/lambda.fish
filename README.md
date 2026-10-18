@@ -1,4 +1,4 @@
-# lambda.fish
+# Lambda.fish
 
 A nice theme for Fish shell.
 Originally based on [netologist/theme-lambda](https://github.com/netologist/theme-lambda).
@@ -11,3 +11,8 @@ fisher install tylerh111/lambda.fish
 promptswap choose lambda
 ```
 
+Here's a look:
+
+<p align="center"><img src="./images/prompt.svg"></p>
+<p align="center"><img src="./images/prompt_git.svg"></p>
+<p align="center"><img src="./images/prompt_git_venv.svg"></p>
